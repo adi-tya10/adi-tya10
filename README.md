@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science undergraduate and software developer who enjoys building real-world products, scalable backend systems and intelligent applications.<br><br>I learn primarily by building — currently working on Snapmeet, a live event management SaaS platform with 800+ users, and KAIRO, an AI-powered engineering knowledge and handoff platform.<br><br>I work across the stack — Python, Django, FastAPI, React and Next.js — and enjoy integrating AI/ML into practical, production-ready applications.<br><br>Always learning, always building, always looking for the next interesting problem to solve.
+I'm a Computer Science undergraduate and software developer who enjoys building real-world products, scalable backend systems and intelligent applications.<br><br>I learn primarily by building - currently working on Snapmeet, a live event management SaaS platform with 800+ users and KAIRO, an AI-powered engineering knowledge and handoff platform.<br><br>I work across the stack - Python, Django, FastAPI, React and Next.js - and enjoy integrating AI/ML into practical, production-ready applications.<br><br>Always learning, always building, always looking for the next interesting problem to solve.
 
 
 ## 🌐 Socials:
